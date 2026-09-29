@@ -27,9 +27,3 @@ The program toggles the LED approximately every 500 milliseconds using `millis()
 
 ## Testing
 Actual test results and supporting evidence will be recorded in `TEST_RESULTS.md`.
-
-## Author
-Name: [Your name]
-Roll Number: [Your roll number]
-Course: Project Management
-Activity: IA-II
